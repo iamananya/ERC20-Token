@@ -8057,12 +8057,12 @@
     "5777": {
       "events": {},
       "links": {},
-      "address": "0xB56d62AD18146De7571b153C5cDccC36e56EC834",
-      "transactionHash": "0x105af1e8c81a64f51b1d4bb4e386b76ecdbd50846a86b354dd6018e15a79adc7"
+      "address": "0x79b168E4d21DF857168ad29c1c74856984e6448A",
+      "transactionHash": "0xddf672636538e857b795fe8625253062e9c75a49e5ad15f3d4d77fee076f9ebd"
     }
   },
   "schemaVersion": "3.4.14",
-  "updatedAt": "2023-07-13T09:12:09.052Z",
+  "updatedAt": "2023-07-19T08:41:04.591Z",
   "networkType": "ethereum",
   "devdoc": {
     "methods": {}
